@@ -70,6 +70,9 @@ insets/
 # Region files
 regs/
 
+# Resources
+resources/
+
 # Region files (may contain sensitive coordinates)
 *.reg
 
