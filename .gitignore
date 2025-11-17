@@ -67,6 +67,9 @@ pkls/
 # Insets (generated images)
 insets/
 
+# Region files
+regs/
+
 # Region files (may contain sensitive coordinates)
 *.reg
 
